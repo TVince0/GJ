@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/Jelenetek/F\u0151men\xFC.unity"
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Jelenetek/J\xE1t\xE9k.unity"
+    guid: 660de09514e15ab4da0b621ae5bea9ad
   m_configObjects: {}
